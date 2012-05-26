@@ -1,3 +1,11 @@
+**This fork of Django Paypal is no longer maintained. Checkout David Cramer's fork for a more up to date version:**
+
+https://github.com/dcramer/django-paypal
+
+
+-----------
+
+
 Django PayPal
 =============
 
